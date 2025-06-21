@@ -4,7 +4,7 @@ To run the above file scraper.py for web scraping in local and performing the pa
 
 python -m pip install browserstack-sdk
 
-browserstack-sdk setup --username "your_username" --key "ypur_passcode"
+browserstack-sdk setup --username "your_username" --key "your_passcode"
 
 browserstack-sdk python scraper.py
 
